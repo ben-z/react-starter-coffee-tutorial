@@ -1,6 +1,6 @@
 # Creating an Isomorphic Web Application with Express
 
-> An brief overview of one of the most-adored features of Facebook's React Framework.
+> A brief overview of one of the most-adored features of Facebook's React Framework.
 
 ### Links
 
