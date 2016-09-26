@@ -4,7 +4,7 @@
 
 ### Links
 
-* [See the demo](https://react-starter-coffee.benzhang.xyz/)
+* [See the demo](http://react-starter-coffee.herokuapp.com/)
 
 * [View the Tutorial](https://benzhang.xyz/reactjs/isomorphic/2015/05/02/isomorphic-webapp-react-express-coffee/): A blog post about this isomorphic React web application template.
 
