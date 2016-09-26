@@ -4,6 +4,7 @@
   "description": "A tutorial on the react-starter template",
   "main": "build/server.js",
   "scripts": {
+    "start": "gulp start_server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
